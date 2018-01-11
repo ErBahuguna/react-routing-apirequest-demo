@@ -16,7 +16,7 @@ export default class User extends Component {
         this.searchData('star');
     }
 
-    ComponentDidMount() {
+    componentDidMount() {
         //called after the component has been rendered to the page.
     }
 
