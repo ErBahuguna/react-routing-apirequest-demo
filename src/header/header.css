@@ -1,0 +1,17 @@
+﻿ul.menu {
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+    ul.menu li {
+        float: left;
+    }
+        ul.menu li a {
+            padding: 10px;
+            margin: 10px;
+            background-color: darkslategray;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+        }
